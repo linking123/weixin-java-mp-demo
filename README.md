@@ -24,7 +24,7 @@
 - [开发过程中问题](devRecords/problems.md)
 - [过程记录](devRecords/devProgress.md)
 - [公众号测试相关](devRecords/WeChatTestAccountAndProcess.md)
-- [公众号申请相关](devRecords/weChatApply.md
+- [公众号申请相关](devRecords/weChatApply.md)
 
 
 ### 完整的Spring MVC框架
